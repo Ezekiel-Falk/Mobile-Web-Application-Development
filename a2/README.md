@@ -11,16 +11,19 @@
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Screenshots user interface
+2. Java Skillsets 
+3. Git commands
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshots of first user interface
+* Screenshots of second user interface
+* Screenshots of running java Even or Odd
+* Screenshots of running java Largest Number
+* Screenshots of running java Arrays And Loops
+
+Screenshots
 
 > This is a blockquote.
 > 
@@ -28,33 +31,21 @@
 >
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git add - Add one or more files to staging
+2. git commit - Commit changes to head (but not yet to the remote repository)
+3. git push - Send changes to the master branch of your remote repository
+
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
-
-![AMPPS Installation Screenshot](img/ampps.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
+|*Screenshots of first user interface*: | *Screenshots of second user interface*: | 
+| ----------- | ----------- |
+| ![Screenshots of first user interface](img/firstInterface.png) | ![Screenshots of second user interface](img/secondInterface.png) |
 
 
-#### Tutorial Links:
+|*Screenshots of running java Largest Number*: | *Screenshots of running java Arrays And Loops*: | *Screenshots of running java Even or Odd*: |
+| ----------- | ----------- | ----------- | 
+|![Screenshots of running java Largest Number](img/largestNumber.png) |![Screenshots of running java Arrays And Loops](img/arraysAndLoops.png) | ![Screenshots of running java Even or Odd](img/evenOrOdd.png)
 
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
 
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+

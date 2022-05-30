@@ -17,4 +17,8 @@
     - Complete Bitbucket tutorials (bitbucketstationlocations)
     - Provide git command descriptions
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Provide screenshots of Running app
+    - Provide git command descriptions
+    - Complete Creating a mobile recipe app using Android Studio.
+    
 
