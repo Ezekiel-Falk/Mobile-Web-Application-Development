@@ -20,5 +20,10 @@
     - Provide screenshots of Running app
     - Provide git command descriptions
     - Complete Creating a mobile recipe app using Android Studio.
-    
+3. [A3 README.md](a3/README.md "My A3 README.md file") 
+    -
+    -
+    -
+    -
+    -
 
