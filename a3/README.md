@@ -11,17 +11,18 @@
 
 *Sub-Heading:*
 
-1. Screenshots user interface
+1. Screenshots user interface and ERD
 2. Java Skillsets 
-3. Git commands
 
 #### README.md file should include the following items:
 
-* Screenshots of first user interface
-* Screenshots of second user interface
-* Screenshots of running java Even or Odd
-* Screenshots of running java Largest Number
-* Screenshots of running java Arrays And Loops
+* Screenshot of ERD; 
+* Screenshot of running applications opening user interface;
+* Screenshot of running applications processing user input;
+* Screenshots of 10 records for each table use (select * from each table)
+* Links to the following files: 
+    * a3.mwb 
+    * a3.sql
 
 Screenshots
 
@@ -38,14 +39,19 @@ Screenshots
 
 #### Assignment Screenshots:
 
-|*Screenshots of first user interface*: | *Screenshots of second user interface*: | 
+|*Screenshots of opening user interface*: | *Screenshots of processing user interface*: | 
 | ----------- | ----------- |
-| ![Screenshots of first user interface](img/firstInterface.png) | ![Screenshots of second user interface](img/secondInterface.png) |
+| ![Screenshots of opening user interface](img/opening.png) | ![Screenshots of processing user interface](img/processing.png) |
 
 
-|*Screenshots of running java Largest Number*: | *Screenshots of running java Arrays And Loops*: | *Screenshots of running java Even or Odd*: |
+|*Screenshots of running java Random Number Generator*: | *Screenshots of running java Decision Structures*: | *Screenshots of running java Methods*: |
 | ----------- | ----------- | ----------- | 
-|![Screenshots of running java Largest Number](img/largestNumber.png) |![Screenshots of running java Arrays And Loops](img/arraysAndLoops.png) | ![Screenshots of running java Even or Odd](img/evenOrOdd.png)
+|![Screenshots of running java Random Number Generator](img/randomNumberGenerator.png) |![Screenshots of running java Decision Structures](img/decisionStructures.png) | ![Screenshots of running java Methods](img/methods.png)
 
+|*Screenshots of 10 customer records*: | *Screenshots of 10 pet records*: | *Screenshots of 10 petstore records*: |
+| ----------- | ----------- | ----------- | 
+|![Screenshots of 10 customer records](img/customer.png) |![Screenshots of 10 pet records](img/pet.png) | ![Screenshots of 10 petstore records](img/petstore.png)
 
-
+|*Screenshots of ERD*: |
+| ----------- |
+|![Screenshots of ERD](img/ERD.png) |

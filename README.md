@@ -21,9 +21,9 @@
     - Provide git command descriptions
     - Complete Creating a mobile recipe app using Android Studio.
 3. [A3 README.md](a3/README.md "My A3 README.md file") 
-    -
-    -
-    -
-    -
-    -
+    - Provide screenshots of Running app
+    - Provide git command descriptions
+    - Create a launcher icon image and display it in the activity 
+    - Provide screenshots of ERD from MySQL
+    - Complete Creating a mobile event app using Android Studio.
 

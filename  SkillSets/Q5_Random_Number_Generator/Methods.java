@@ -1,69 +1,85 @@
 import java.util.Scanner; 
+import java.util.Random; //import class to produce pseudo-random numbers 
+
 
 public class Methods
 {
 
-    //Create Methods without returning any value (without object)
+    //nonvalue-returning method (static requires no object)
     public static void getRequirements()
     {
         //display operational messages
         System.out.println("Developer: Ezekiel O. Faulknor");
-        System.out.println("Program evaluates user-entered characters.");
-        System.out.println("Use following characters: W or w, C or c, H or h, N or n.");
-        System.out.println("Use following decision structures: if...else, and switch.");
+        System.out.println("Print minimum and maximum integer values.");
+        System.out.println("Program prompts user to enter desired number of pseudorandom-generated integers (min 1).");
+        System.out.println("Use folloing loop structure: for, enhanced for, while, do...while\n");
+
+        //print min/max integer values
+        System.out.println("Integer.MIN_VALUE = " + Integer.MIN_VALUE);
+        System.out.println("Integer.MAX_VALUE = " + Integer.MAX_VALUE);
 
         System.out.println(); //print blank line 
+        return;//OK. However, no need to include return statement in void method. 
     }
 
-    public static void getUserPhoneType()
+    //value-returning method (static requires no object)
+    public static int[] createArrays()
     {
-        String myStr="";
-        char myChar=' ';
         Scanner sc = new Scanner(System.in);
+        int arraySize = 0;
 
-        /*
-            Note: Currently, there is no API method to get a character from the Scanner.
-            Solution: get String using scanner.next() and invoke String.charAt(0) method on returned String. 
-        */
-        System.out.println("Phone type: W or w (work), C or c (cell), H or h (home), N or n (none).");
-        System.out.print("Enter phone type: ");
-        myStr = sc.next().toLowerCase();
-        myChar = myStr.charAt(0);
-        //myChar = sc.next().charAt(0); //smae as two stwps above 
+        //prompt user for number of randomly generated numbers
+        System.out.print("Enter desired number of pseudorandom integers (min 1): ");
+        arraySize = sc.nextInt();
 
-        System.out.println("\nif...else:");
-
-        if(myChar == 'w')
-            System.out.println("Phone type: work");
-        else if (myChar == 'c')
-            System.out.println("Phone type: cell");
-        else if (myChar == 'h')
-            System.out.println("Phone type: home");
-        else if (myChar == 'n')
-            System.out.println("Phone type: none");
-        else 
-            System.out.println("Incorrect character entry.");
-
-        System.out.println(); // print blank line
-        System.out.println("switch:");
-        switch (myChar)
-        {
-            case 'w':
-                System.out.println("Phone type: work");
-                break;
-            case 'c':
-                System.out.println("Phone type: cell");
-                break;
-            case 'h':
-                System.out.println("Phone type: home");
-                break;
-            case 'n':
-                System.out.println("Phone type: none");
-                break;
-            default:
-                System.out.println("Incorrect character entry.");
-                break;
-        } 
-
+        //Java style String[] myArray
+        //C++ style String myArray[]
+        int yourArray[] = new int[arraySize];
+        return yourArray;
     }
+
+    //nonvalue-returning method accepts int array arg (static requires no object)
+    public static void generatePseudoRandomNumber(int[] myArray)
+    {
+
+
+
+
+
+        Random r = new Random(); //instantiate random object variable 
+
+        //create loops to randomize integer values 
+        int i = 0;//initalize counter variable
+        System.out.println("for loop:");
+        for(i=0; i < myArray.length; i++)
+          {
+              //generate random integer within Integer.MIN_VALUE and Integer.MAX_VALUE 
+              System.out.println(r.nextInt());
+              //System.out.printin (r.nextInt(10)) + 1); //print pseudorandom number between 1 and 10, inclusive
+          }
+          
+        System.out.println("\nEnhanced for loop:");
+        for(int n: myArray)
+            {
+                System.out.println(r.nextInt());
+            }
+
+        System.out.println("\nwhile loop:");
+        i=0; //reassign to 0
+        while(i < myArray.length)
+            {
+                System.out.println(r.nextInt());
+                i++;
+            }
+
+        i=0;//reassign to 0
+        System.out.println("\ndo...while loop:");
+        do
+            {
+                System.out.println(r.nextInt());
+                i++;
+            }
+        while (i < myArray.length);
+    }
+    
 }
