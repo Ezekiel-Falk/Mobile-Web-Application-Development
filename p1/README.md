@@ -32,8 +32,8 @@
 | ![Screenshots of opening user interface](img/first_user_interface.png) | ![Screenshots of processing user interface](img/second_user_interface.png) |
 
 
-|*Screenshots of running java Larget Three Numbers*: | *Screenshots of running java Random Number Generator Data Validation*: | *Screenshots of running java*: |
+|*Screenshots of running java Larget Three Numbers*: | *Screenshots of running java Random Number Generator Data Validation*: | *Screenshots of running java Array Runtime Data Validation*: |
 | ----------- | ----------- | ----------- | 
-|![Screenshots of running java Larget Three Numbers](img/largetThreeNumbers.png) |![Screenshots of running java randomNumber Generator DataValidation](img/randomNumberGeneratorDataValidation.png) | ![Screenshots of running java ](img/Array_Runtime_Data_Validation.png)
+|![Screenshots of running java Larget Three Numbers](img/largetThreeNumbers.png) |![Screenshots of running java Random Number Generator DataValidation](img/randomNumberGeneratorDataValidation.png) | ![Screenshots of running java Array Runtime Data Validation](img/array_Runtime_Data_Validation.png) |
 
 
