@@ -26,4 +26,9 @@
     - Create a launcher icon image and display it in the activity 
     - Provide screenshots of ERD from MySQL
     - Complete Creating a mobile event app using Android Studio.
+4. [P1 README.md](p1/README.md "My P1 README.md file") 
+    - Provide screenshots of Running app
+    - Backward-Engineer the screenshot
+    - Create a launcher icon image
+    - Complete Creating a mobile business cards using Android Studio.
 
