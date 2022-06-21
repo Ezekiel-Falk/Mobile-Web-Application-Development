@@ -27,9 +27,13 @@
 
 #### Assignment Screenshots:
 
-|*Screenshots of opening user interface*: | *Screenshots of processing user interface*: | 
-| ----------- | ----------- |
-| ![Screenshots of opening user interface](img/first_user_interface.png) | ![Screenshots of processing user interface](img/second_user_interface.png) |
+|*Screenshots of opening user interface*: | *Screenshots of processing user interface*: | *GIF of running interface*: |
+| ----------- | ----------- | ----------- | 
+| ![Screenshots of opening user interface](img/first_user_interface.png) | ![Screenshots of processing user interface](img/second_user_interface.png) |![Screenshots of running interface](img/ezeWorks.gif)
+
+
+
+
 
 
 |*Screenshots of running java Larget Three Numbers*: | *Screenshots of running java Random Number Generator Data Validation*: | *Screenshots of running java Array Runtime Data Validation*: |
