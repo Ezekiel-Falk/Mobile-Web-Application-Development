@@ -28,13 +28,11 @@
 | ----------- |
 | ![Screenshots of opening user interface](img/home_page.gif) |
 
-
-|*Screenshots of running java ArrayList*: | *Screenshots of running java Temperature Conversion*: | *Screenshots of running java Alpha Numeric Special*: |
-| ----------- | ----------- | ----------- | 
-|![Screenshots of running java ArrayList](img/arrayList.png) |![Screenshots of running java Temperature Conversion](img/temperature_Conversion.png) | ![Screenshots of running java Alpha Numeric Special](img/alpha_Numeric_Special.png)
-
 |*Screenshots of Failed Validation*: | *Screenshots of Passed Validation*: | *Screenshots of 10 petstore records*: |
 | ----------- | ----------- | ----------- | 
 |![Screenshots of Failed Validation](img/failed_Validation.png) |![Screenshots of Passed Validation](img/passed_Validation.png) | ![Screenshots of Home page](img/home_page.png)
 
+|*Screenshots of running java ArrayList*: | *Screenshots of running java Temperature Conversion*: | *Screenshots of running java Alpha Numeric Special*: |
+| ----------- | ----------- | ----------- | 
+|![Screenshots of running java ArrayList](img/arrayList.png) |![Screenshots of running java Temperature Conversion](img/temperature_Conversion.png) | ![Screenshots of running java Alpha Numeric Special](img/alpha_Numeric_Special.png)
 
