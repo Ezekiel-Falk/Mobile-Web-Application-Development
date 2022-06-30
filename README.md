@@ -28,7 +28,13 @@
     - Complete Creating a mobile event app using Android Studio.
 4. [P1 README.md](p1/README.md "My P1 README.md file") 
     - Provide screenshots of Running app
+    - Provide GIF of Running app
     - Backward-Engineer the screenshot
     - Create a launcher icon image
     - Complete Creating a mobile business cards using Android Studio.
-
+5. [A4 README.md](a4/README.md "My P1 README.md file") 
+    - Provide screenshots of Running app
+    - Provide GIF of Running app
+    - Provide screenshots of LIS4381 Portal (Main Page) 
+    - Screenshot of Failed Validation
+    - Screenshot of Passed Validation

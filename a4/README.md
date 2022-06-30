@@ -11,47 +11,30 @@
 
 *Sub-Heading:*
 
-1. Screenshots user interface and ERD
+1. Screenshots user interface
 2. Java Skillsets 
 
 #### README.md file should include the following items:
 
-* Screenshot of ERD; 
-* Screenshot of running applications opening user interface;
-* Screenshot of running applications processing user input;
-* Screenshots of 10 records for each table use (select * from each table)
-* Links to the following files: 
-    * a3.mwb 
-    * a3.sql
-
-Screenshots
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. git add - Add one or more files to staging
-2. git commit - Commit changes to head (but not yet to the remote repository)
-3. git push - Send changes to the master branch of your remote repository
-
+* Screenshot of Failed Validation 
+* Provide GIF of Running app
+* Screenshot of Passed Validation 
+* Screenshots of LIS4381 Portal (Main Page) 
+* Link to local lis4381 web app: http://localhost/lis4381/ 
 
 #### Assignment Screenshots:
 
-|*Screenshots of opening user interface*: | *Screenshots of processing user interface*: | 
-| ----------- | ----------- |
-| ![Screenshots of opening user interface](img/opening.png) | ![Screenshots of processing user interface](img/processing.png) |
-
-
-|*Screenshots of running java Random Number Generator*: | *Screenshots of running java Decision Structures*: | *Screenshots of running java Methods*: |
-| ----------- | ----------- | ----------- | 
-|![Screenshots of running java Random Number Generator](img/randomNumberGenerator.png) |![Screenshots of running java Decision Structures](img/decisionStructures.png) | ![Screenshots of running java Methods](img/methods.png)
-
-|*Screenshots of 10 customer records*: | *Screenshots of 10 pet records*: | *Screenshots of 10 petstore records*: |
-| ----------- | ----------- | ----------- | 
-|![Screenshots of 10 customer records](img/customer.png) |![Screenshots of 10 pet records](img/pet.png) | ![Screenshots of 10 petstore records](img/petstore.png)
-
-|*Screenshots of ERD*: |
+|*GIF of opening home page interface*: | 
 | ----------- |
-|![Screenshots of ERD](img/ERD.png) |
+| ![Screenshots of opening user interface](img/home_page.gif) |
+
+
+|*Screenshots of running java ArrayList*: | *Screenshots of running java Temperature Conversion*: | *Screenshots of running java Alpha Numeric Special*: |
+| ----------- | ----------- | ----------- | 
+|![Screenshots of running java ArrayList](img/arrayList.png) |![Screenshots of running java Temperature Conversion](img/temperature_Conversion.png) | ![Screenshots of running java Alpha Numeric Special](img/alpha_Numeric_Special.png)
+
+|*Screenshots of Failed Validation*: | *Screenshots of Passed Validation*: | *Screenshots of 10 petstore records*: |
+| ----------- | ----------- | ----------- | 
+|![Screenshots of Failed Validation](img/failed_Validation.png) |![Screenshots of Passed Validation](img/passed_Validation.png) | ![Screenshots of Home page](img/home_page.png)
+
+
