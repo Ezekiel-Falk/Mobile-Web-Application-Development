@@ -13,6 +13,7 @@
 
 1. Screenshots user interface
 2. Java Skillsets 
+3. Regular expression
 
 #### README.md file should include the following items:
 
@@ -20,7 +21,9 @@
 * Provide GIF of Running app
 * Screenshot of Passed Validation 
 * Screenshots of LIS4381 Portal (Main Page) 
-* Link to local lis4381 web app: http://localhost/lis4381/ 
+* Link to local lis4381 web app: 
+
+## http://localhost/lis4381/
 
 #### Assignment Screenshots:
 

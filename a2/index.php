@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="This is EzeWorks.LLC content page">
 		<meta name="author" content="Ezekiel O Faulknor aka EF aka EzeWorks">
-    <link rel="icon" href="favicon.ico">
+		<link rel="icon" href="favicon.ico">
 
 		<title>LIS4381 - Assignment2</title>		
 		<?php include_once("../css/include_css.php"); ?>
