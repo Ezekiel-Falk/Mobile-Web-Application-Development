@@ -23,7 +23,10 @@
 * Screenshots of LIS4381 Portal (Main Page) 
 * Link to local lis4381 web app: 
 
-## http://localhost/lis4381/
+#### Website Links:
+
+*Website EzeWorks:*
+[EzeWorks localhost ](http://localhost/lis4381/ "Website EzeWorks")
 
 #### Assignment Screenshots:
 
