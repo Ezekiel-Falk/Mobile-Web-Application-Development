@@ -32,9 +32,16 @@
     - Backward-Engineer the screenshot
     - Create a launcher icon image
     - Complete Creating a mobile business cards using Android Studio.
-5. [A4 README.md](a4/README.md "My P1 README.md file") 
-    - Provide screenshots of Running app
-    - Provide GIF of Running app
+5. [A4 README.md](a4/README.md "My A4 README.md file") 
+    - Provide screenshots of Running website
+    - Provide GIF of Running website
     - Provide screenshots of LIS4381 Portal (Main Page) 
+    - Screenshot of Failed Validation
+    - Screenshot of Passed Validation
+6. [A5 README.md](a5/README.md "My A5 README.md file") 
+    - Provide screenshots of Running website
+    - Provide GIF of Running Website
+    - GIF of PHP: Simple Calculator
+    - GIF of PHP: Write/Read File        
     - Screenshot of Failed Validation
     - Screenshot of Passed Validation
