@@ -11,18 +11,18 @@
 
 *Sub-Heading:*
 
-1. Screenshots user interface and ERD
+1. Screenshots user interface 
 2. Java Skillsets 
 
 #### README.md file should include the following items:
 
-* Screenshot of ERD; 
 * Screenshot of running applications opening user interface;
 * Screenshot of running applications processing user input;
-* Screenshots of 10 records for each table use (select * from each table)
-* Links to the following files: 
-    * a3.mwb 
-    * a3.sql
+* Screenshots of incorrect entry
+* Screenshots of correct entry
+* GIF of PHP: Simple Calculator
+* GIF of PHP: Write/Read File
+
 
 Screenshots
 
@@ -39,19 +39,27 @@ Screenshots
 
 #### Assignment Screenshots:
 
-|*Screenshots of opening user interface*: | *Screenshots of processing user interface*: | 
+|*Screenshots of opening user interface*: | *Screenshots of incorrect entry*: | 
 | ----------- | ----------- |
-| ![Screenshots of opening user interface](img/opening.png) | ![Screenshots of processing user interface](img/processing.png) |
+| ![Screenshots of opening user interface](img/assignment_5_one.png) | ![Screenshots of processing user interface](img/assignment_5_two.png) |
 
 
-|*Screenshots of running java Random Number Generator*: | *Screenshots of running java Decision Structures*: | *Screenshots of running java Methods*: |
-| ----------- | ----------- | ----------- | 
-|![Screenshots of running java Random Number Generator](img/randomNumberGenerator.png) |![Screenshots of running java Decision Structures](img/decisionStructures.png) | ![Screenshots of running java Methods](img/methods.png)
+|*Screenshots of error*: | *Screenshots of correct entry*: 
+| ----------- | ----------- 
+|![Screenshots of running java Random Number Generator](img/assignment_5_three.png) |![Screenshots of running java Decision Structures](img/assignment_5_four.png) 
 
-|*Screenshots of 10 customer records*: | *Screenshots of 10 pet records*: | *Screenshots of 10 petstore records*: |
-| ----------- | ----------- | ----------- | 
-|![Screenshots of 10 customer records](img/customer.png) |![Screenshots of 10 pet records](img/pet.png) | ![Screenshots of 10 petstore records](img/petstore.png)
 
-|*Screenshots of ERD*: |
-| ----------- |
-|![Screenshots of ERD](img/ERD.png) |
+
+|*Screenshots of running java Sphere Volume Calculator*: 
+| ----------- 
+|![Screenshots of 10 customer records](img/Sphere_Volume_Calculator.png) 
+
+
+| *Screenshots of PHP: Simple Calculator GIF*: 
+| -----------
+|![PHP: Simple Calculator GIF](img/simple_Calculator.gif) | 
+
+
+| *Screenshots of PHP: Write/Read File GIF*: 
+| -----------
+|![PHP: Simple Calculator GIF](img/write_Read_File.gif) | 

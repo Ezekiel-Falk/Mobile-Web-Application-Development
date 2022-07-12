@@ -19,7 +19,8 @@
 		 {
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold
+			font-weight: bold;
+			color: black; 
 		 }
 		 h2
 		 {
@@ -27,7 +28,8 @@
 			 background-color: red;
 			 padding-top: 50px;
 			 font-size: 52px;
-			 font-family: "trebuchet ms", sans-serif;    
+			 font-family: "trebuchet ms", sans-serif; 
+			 color:black;   
 		 }
 		 .item
 		 {
@@ -58,6 +60,7 @@
 			text-decoration-line: underline;
 			font-weight: bold
 		 }
+
 		</style>
 
 	</head>

@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="MySQL Database Server Information.">
-	<meta name="author" content="Mark K. Jowett, Ph.D.">
+	<meta name="author" content="Ezekiel O Faulknor aka EF aka EzeWorks">
 	<link rel="icon" href="favicon.ico">
 
 	<title>MySQL Database Server Information</title>

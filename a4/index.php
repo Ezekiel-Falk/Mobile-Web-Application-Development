@@ -17,28 +17,34 @@
 		 {
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold
+			font-weight: bold;
+			color:black; 
 		 }
 		 
 		 h3
 		{
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold
+			font-weight: bold;
+			color:black; 
+		
 		}
 
 		h4
 		{
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold
+			font-weight: bold;
+			color:black; 
+
 		}
 
 		h2
 		{
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold
+			font-weight: bold;
+			color:black; 
 		}
 	
 		</style>

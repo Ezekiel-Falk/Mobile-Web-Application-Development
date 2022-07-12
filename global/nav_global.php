@@ -1,6 +1,6 @@
-	<nav class="navbar navbar-inverse navbar-fixed-top">
-		<div class="container">			
-			<div class="navbar-header">
+	<nav class="navbar navbar-inverse navbar-fixed-top" style="color: yellow;">
+		<div class="container" style="background-color: yellow;">			
+			<div class="navbar-header" style="background-color: yellow;">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
@@ -11,8 +11,8 @@
 			</div>
 
 			<div id="navbar" class="collapse navbar-collapse">
-				<ul class="nav navbar-nav">
-					<li class="active"><a href="index.php">LIS4381</a></li>
+				<ul class="nav navbar-nav" style="color: yellow;">
+					<li class="active" ><a href="index.php" style="color:yellow;">LIS4381</a></li>
 					<li><a href="a1/index.php">A1</a></li>
 					<li><a href="a2/index.php">A2</a></li>
 					<li><a href="a3/index.php">A3</a></li>
