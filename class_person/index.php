@@ -30,24 +30,21 @@ $statement->execute();
 		 {
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold;
-			color:black;
+			font-weight: bold
 		 }
 		 
 		 h3
 		{
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold;
-			color:black;
+			font-weight: bold
 		}
 
 		h4
 		{
 			font-family: serif;
 			text-shadow: 2px 2px yellow;
-			font-weight: bold;
-			color:black;
+			font-weight: bold
 		}
 	
 		</style>
@@ -135,7 +132,7 @@ $statement->execute();
 					<td>
 						<form 
 								onsubmit="return confirm('Do you really want to delete record?');"
-										action="delete_petstore.php"
+										action="delere_petstore.php"
 										method="post"
 										id="delete_petstore">
 							<input type="hidden" name="pst_id" value="<?php echo $result['pst_id']; ?>" />
