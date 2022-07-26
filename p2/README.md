@@ -51,4 +51,4 @@ Screenshots
 
 |*Screenshots of RSS feed*: |
 | ----------- | 
-|![Screenshots of 10 customer records](img/) 
+|![Screenshots of RSS feed](img/pic.png) 
