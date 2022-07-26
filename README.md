@@ -49,3 +49,5 @@
     - Provide screenshots of ADD  / Delete records. 
     - Provide GIF of Carousel (Home page –include images, self-promotional links) 
     - PHP server side validation 
+    - server-side validation
+    - prepared statements to help prevent SQL injection
