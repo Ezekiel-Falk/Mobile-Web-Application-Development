@@ -11,21 +11,48 @@
 
       <title>Using RSS Feeds</title>
 
+      <style type="text/css">
+
+		h2
+		 {
+			font-family: serif;
+			text-shadow: 2px 2px Red;
+			font-weight: bold
+            color: white;
+            
+		 }
+
+		ol
+		{
+			font-family: serif;
+			font-weight: bold
+            
+		}
+
+        body{
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+	
+		</style>
+
     </head>
     <body>
         <?php
             //Note: RSS specification: https://validator.w3.org/feed/docs/rss2.html
 
                 $html = "";
-                $publisher ="Washington Post";
+                $publisher ="Washington Post Local";
                 $url = "https://feeds.washingtonpost.com/rss/local?itid=lk_inline_manual_20";
+              
 
-                $html .= '<h2>' . $publisher . '</h2>';
+                $html .= '<h2 style="text-align:center" >' . $publisher . '</h2>';
                 $html .= $url;
 
                 $rss = simplexml_load_file($url);
                 $count = 0;
-                $html .= '<ul>';
+                $html .= '<ol>';
                 foreach($rss->channel->item as $item)
                     {
                         $count++;
@@ -38,7 +65,7 @@
                         $html .= htmlspecialchars($item->description). '<br />';
                         $html .= htmlspecialchars($item->pubDate). '</il><br />';
                     }
-                    $html .= '</ul>';
+                    $html .= '</ol>';
 
                     print $html;
         ?>
