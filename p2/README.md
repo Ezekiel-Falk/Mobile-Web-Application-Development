@@ -11,47 +11,44 @@
 
 *Sub-Heading:*
 
-1. Screenshots user interface and ERD
-2. Java Skillsets 
+1. Screenshots user interface 
 
 #### README.md file should include the following items:
 
-* Screenshot of ERD; 
-* Screenshot of running applications opening user interface;
+* GIF of Before  and after successful edit ; 
+* Screenshot of running Failed validation 
 * Screenshot of running applications processing user input;
-* Screenshots of 10 records for each table use (select * from each table)
-* Links to the following files: 
-    * a3.mwb 
-    * a3.sql
+* GIF of Delete prompt and successfully deleted record
+* Suitably modify meta tags 
+* Change title, navigation links, and header tags appropriately 
+* RSS feed 
+
 
 Screenshots
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. git add - Add one or more files to staging
-2. git commit - Commit changes to head (but not yet to the remote repository)
-3. git push - Send changes to the master branch of your remote repository
-
-
 #### Assignment Screenshots:
 
-|*Screenshots of opening user interface*: | *Screenshots of processing user interface*: | 
-| ----------- | ----------- |
-| ![Screenshots of opening user interface](img/opening.png) | ![Screenshots of processing user interface](img/processing.png) |
+|*Screenshots of opening user interface*: 
+| ----------- 
+| ![Screenshots of opening user interface](img/homeScreen.gif) | 
 
 
-|*Screenshots of running java Random Number Generator*: | *Screenshots of running java Decision Structures*: | *Screenshots of running java Methods*: |
-| ----------- | ----------- | ----------- | 
-|![Screenshots of running java Random Number Generator](img/randomNumberGenerator.png) |![Screenshots of running java Decision Structures](img/decisionStructures.png) | ![Screenshots of running java Methods](img/methods.png)
-
-|*Screenshots of 10 customer records*: | *Screenshots of 10 pet records*: | *Screenshots of 10 petstore records*: |
-| ----------- | ----------- | ----------- | 
-|![Screenshots of 10 customer records](img/customer.png) |![Screenshots of 10 pet records](img/pet.png) | ![Screenshots of 10 petstore records](img/petstore.png)
-
-|*Screenshots of ERD*: |
+|*Screenshots of edit button functionality*: 
 | ----------- |
-|![Screenshots of ERD](img/ERD.png) |
+|![Screenshots of edit button functionality](img/edit_contact.gif) 
+
+|*Screenshots of delete button functionality*: |
+| ----------- | 
+|![Screenshots of 10 customer records](img/delete_contact.gif) 
+
+| Screenshots of wrong validation: | *Screenshots of Erorr index page*: 
+| ----------- | ----------- 
+|![Screenshots of Erorr](img/edit_petstore_wrong.png) |![Screenshots of ERD](img/failed_Validation.png) | 
+
+| Screenshots of Erorr index page: | *Screenshots of edit petstore wrong*: 
+| ----------- | ----------- 
+|![Screenshots of Erorr](img/home_index.png) |![Screenshots of ERD](img/home_index_delete.png) |
+
+|*Screenshots of RSS feed*: |
+| ----------- | 
+|![Screenshots of 10 customer records](img/) 

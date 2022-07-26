@@ -45,3 +45,7 @@
     - GIF of PHP: Write/Read File        
     - Screenshot of Failed Validation
     - Screenshot of Passed Validation
+7. [P2 README.md](p2/README.md "My P2 README.md file") 
+    - Provide screenshots of ADD  / Delete records. 
+    - Provide GIF of Carousel (Home page –include images, self-promotional links) 
+    - PHP server side validation 
